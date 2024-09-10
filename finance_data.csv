@@ -1,0 +1,68 @@
+date,amount,category,description
+24-08-2024,555.0,Income,
+25-08-2024,4665.0,Income,
+25-08-2024,20.0,Expense,party
+26-08-2024,150.0,Expense,Groceries
+27-08-2024,3000.0,Income,Salary
+27-08-2024,50.0,Expense,Coffee
+28-08-2024,200.0,Expense,Restaurant
+29-08-2024,250.0,Income,Freelance
+29-08-2024,100.0,Expense,Transport
+30-08-2024,75.0,Expense,Books
+31-08-2024,4500.0,Income,Bonus
+01-09-2024,60.0,Expense,Utilities
+02-09-2024,120.0,Expense,Movie Night
+03-09-2024,500.0,Income,Dividends
+03-09-2024,30.0,Expense,Parking
+04-09-2024,200.0,Expense,Dining Out
+05-09-2024,1500.0,Income,Stock Sale
+05-09-2024,45.0,Expense,Snacks
+06-09-2024,80.0,Expense,Subscription
+07-09-2024,55.0,Expense,Gas
+08-09-2024,300.0,Expense,Clothing
+09-09-2024,2500.0,Income,Consulting
+09-09-2024,20.0,Expense,Magazine
+10-09-2024,500.0,Expense,Gifts
+11-09-2024,65.0,Expense,Internet
+12-09-2024,90.0,Expense,Utilities
+13-09-2024,400.0,Income,Refund
+14-09-2024,60.0,Expense,Groceries
+15-09-2024,200.0,Expense,Electricity Bill
+16-09-2024,2500.0,Income,Side Job
+17-09-2024,150.0,Expense,Health Insurance
+18-09-2024,20.0,Expense,Parking
+19-09-2024,300.0,Expense,Dentist
+20-09-2024,500.0,Income,Rent Received
+21-09-2024,100.0,Expense,Household Items
+22-09-2024,600.0,Expense,Car Maintenance
+23-09-2024,100.0,Expense,Subscription
+24-09-2024,800.0,Income,Stock Dividends
+25-09-2024,45.0,Expense,Transportation
+26-09-2024,200.0,Expense,Entertainment
+27-09-2024,350.0,Income,Freelance Project
+28-09-2024,25.0,Expense,Coffee
+29-09-2024,50.0,Expense,Fast Food
+30-09-2024,250.0,Expense,Online Shopping
+01-10-2024,150.0,Expense,Groceries
+02-10-2024,100.0,Expense,Water Bill
+03-10-2024,400.0,Income,Freelance Writing
+04-10-2024,70.0,Expense,Pet Supplies
+05-10-2024,30.0,Expense,Snacks
+06-10-2024,150.0,Expense,Books
+07-10-2024,200.0,Income,Gift
+08-10-2024,500.0,Expense,Shopping
+09-10-2024,90.0,Expense,Phone Bill
+10-10-2024,300.0,Income,Part-time Work
+11-10-2024,120.0,Expense,Dining Out
+12-10-2024,75.0,Expense,Gasoline
+13-10-2024,60.0,Expense,Subscription
+14-10-2024,180.0,Income,Interest Earned
+15-10-2024,55.0,Expense,Public Transport
+16-10-2024,150.0,Expense,Groceries
+17-10-2024,120.0,Expense,Home Repairs
+18-10-2024,2000.0,Income,Salary
+19-10-2024,80.0,Expense,Utilities
+20-10-2024,300.0,Expense,Clothing
+21-10-2024,500.0,Income,Bonus
+22-10-2024,30.0,Expense,Parking
+23-10-2024,150.0,Expense,Gro
